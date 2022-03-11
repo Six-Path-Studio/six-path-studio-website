@@ -695,11 +695,11 @@ img{
 	position: absolute;
 	float:left;
 	left: 0;
-	top: -64px;
+	top: -29px;
 	background: #090a14;
 	padding:20px 10px;
 	text-align: center;
-	height: 156px;
+	height: 96px;
 	width: 210px;
 	border-right: 1px solid rgba(255,255,255,0.10);
 	z-index:10;
@@ -1623,11 +1623,11 @@ img{
 
 .banner-carousel .content-box{
 	position: relative;
-	height: 800px;
+	height: 200px;
 	max-width: 700px;
 	display: table;
 	vertical-align: middle;
-	padding: 50px 0px 120px;
+	padding: 1px 0px 120px;
 	z-index:1;
 }
 
@@ -1640,7 +1640,7 @@ img{
 .banner-carousel .content-box .content{
 	position: relative;
 	display: table-cell;
-	vertical-align: middle;
+	/* vertical-align: middle; */
 }
 
 .banner-carousel .content-box h1{
