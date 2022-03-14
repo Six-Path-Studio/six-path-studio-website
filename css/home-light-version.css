@@ -28,12 +28,12 @@
 
 .home-light-version .main-header .social-links li a:hover{
 	color: #ffffff;
-	background: #ff7a21;
+	background: #39b54a;
 }
 
 .home-light-version .main-menu .navigation > li:hover > a,
 .home-light-version .main-menu .navigation > li.current > a{
-	color:#07070f;
+	color:#0e0f0e;
 }
 
 .home-light-version .top-pattern-layer{
@@ -53,7 +53,7 @@
 }
 
 .home-light-version .sec-title h2{
-	color: #07070f;
+	color: #0e0f0e;
 }
 
 .home-light-version .game-block .inner-box{
@@ -75,7 +75,7 @@
 .home-light-version .game-block .inner-box:hover .image-box .link-box .link-btn .btn-title,
 .home-light-version .game-block .inner-box:hover .image-box .link-box .link-btn:before,
 .home-light-version .game-block .inner-box:hover .image-box .link-box .link-btn:after{
-	background: #ff7a21;
+	background: #39b54a;
 	color: #ffffff;
 }
 
@@ -88,12 +88,12 @@
 }
 
 .home-light-version .game-block h3 a{
-    color: #07070f;
+    color: #0e0f0e;
 }
 
 .home-light-version .game-block h3 a:hover,
 .home-light-version .game-block .post-info li .icon{
-	color: #ff7a21;
+	color: #39b54a;
 }
 
 .home-light-version .sponsors-section{
@@ -114,7 +114,7 @@
 
 .home-light-version .reviews-section .carousel-outer .text-carousel .owl-prev,
 .home-light-version .reviews-section .carousel-outer .text-carousel .owl-next{
-	color: #07070f;
+	color: #0e0f0e;
 	opacity: 0.20;
 }
 
@@ -132,12 +132,12 @@
 }
 
 .home-light-version .featured-carousel-box .slide-item .text-column .title h3 a{
-	color: #07070f;
+	color: #0e0f0e;
 }
 
 .home-light-version .featured-carousel-box .slide-item .text-column .title h3 a:hover,
 .home-light-version .featured-carousel-box .slide-item .text-column .info li .icon{
-	color: #ff7a21;
+	color: #39b54a;
 }
 
 .home-light-version .featured-carousel-box .slide-item .text-column .bottom-links{
@@ -149,7 +149,7 @@
 }
 
 .home-light-version .featured-carousel-box .slide-item .text-column .bottom-links li a{
-	color: #07070f;
+	color: #0e0f0e;
 }
 
 .home-light-version .team-section{
@@ -168,11 +168,11 @@
 }
 
 .home-light-version .team-block .lower-box h3 a{
-	color: #07070f;
+	color: #0e0f0e;
 }
 
 .home-light-version .team-block .lower-box h3 a:hover{
-	color: #ff7a21;
+	color: #39b54a;
 }
 
 .home-light-version .team-block .default-social-links li a{
@@ -182,7 +182,7 @@
 
 .home-light-version .team-block .default-social-links li a:hover{
 	color: #ffffff;
-	background: #ff7a21;
+	background: #39b54a;
 }
 
 .home-light-version .news-section{
@@ -196,7 +196,7 @@
 
 .home-light-version .main-footer .top-pattern-layer-dark{
 	top: 0;
-	background:url(../images/background/pattern-2-dark-light-version.png) center top repeat-x;
+	 /pattern-2-dark-light-version.png) center top repeat-x;
 }
 
 
